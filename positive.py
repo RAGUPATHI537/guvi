@@ -3,4 +3,4 @@ def check(n):
        print "POSITIVE"
        
 n=int(raw_input())
-chek(n)
+check(n)
