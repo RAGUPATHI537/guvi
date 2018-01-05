@@ -4,8 +4,7 @@ int main()
     char c;
     int L,U;
 
-    printf("Enter an alphabet: ");
-    scanf("%c",&c);
+     scanf("%c",&c);
 
     
     L= (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
