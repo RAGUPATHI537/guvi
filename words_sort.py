@@ -1,7 +1,7 @@
-
 n=int(input())
 a=list()
-for i in range(0,n):
-   k=input()
-   a.append(k)
-print(a.sort())
+s=input()
+a=s.split(" ")
+
+a.sort()
+print(a) 
